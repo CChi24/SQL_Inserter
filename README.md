@@ -8,7 +8,7 @@ not numbers or symbols.
 There a two actions the user can take:
 * 'Add to Database' 
 or 
-* 'Display last entry'
+* 'Display last Insert'
 
 If the user clicks 'Add to Database', it will add the user's first name and last name to the database.
 If the user clicks 'Display last entry', it will display the first data entry in the database table in a textbox; the program will check to see if there are any data
