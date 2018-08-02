@@ -4,7 +4,7 @@
 <head runat="server">
 	<title>Default</title>
 </head>
-<body style="background-color:blue;">
+<body style="background-color:green;">
     <!-- Here we create a simple form to the user inputs data into -->
     <div style="text-align:center;">       
         <h1> Simple Database Inserter </h1>
